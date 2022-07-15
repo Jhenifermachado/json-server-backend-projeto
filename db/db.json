@@ -1,0 +1,47 @@
+{
+  "times": [],
+  "jogadores": [
+    {
+      "anoNascimento": "oii",
+      "nome": "oii",
+      "posicaoJogo": "oii",
+      "id": 1
+    },
+    {
+      "anoNascimento": "oii",
+      "nome": "oii",
+      "posicaoJogo": "oii",
+      "id": 2
+    },
+    {
+      "anoNascimento": "oii",
+      "nome": "oii",
+      "posicaoJogo": "oii",
+      "id": 3
+    },
+    {
+      "anoNascimento": "oo",
+      "nome": "oo",
+      "posicaoJogo": "oo",
+      "id": 4
+    },
+    {
+      "anoNascimento": "oo",
+      "nome": "oo",
+      "posicaoJogo": "oo",
+      "id": 5
+    },
+    {
+      "anoNascimento": "oo",
+      "nome": "oo",
+      "posicaoJogo": "oo",
+      "id": 6
+    },
+    {
+      "anoNascimento": "oo",
+      "nome": "oo",
+      "posicaoJogo": "oo",
+      "id": 7
+    }
+  ]
+}
